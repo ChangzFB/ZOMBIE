@@ -1,10 +1,10 @@
 # CRACK
 
-git clone https://github.com/ChangzFB/CRACK
+git clone https://github.com/ChangzFB/ZOMBIE
 
 ls
 
-cd CRACK
+cd ZOMBIE
 
 git pull
 
