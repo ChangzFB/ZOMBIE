@@ -1,6 +1,6 @@
 # CRACK
 
-https://github.com/ChangzFB/CRACK
+git clone https://github.com/ChangzFB/CRACK
 
 ls
 
